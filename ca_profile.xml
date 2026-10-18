@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CommunityApplications>
   <Profile>
-    Unraid plugins maintained by Sebastian Oehm.
+Unraid plugins maintained by Sebastian Oehm.
 
-    - **MOTD**: system information after SSH/console login. Maintained fork of dkaser's MOTD plugin.
+- **MOTD**: system information after SSH/console login. Maintained fork of dkaser's MOTD plugin.
 
-    For help, use the support thread linked on each plugin.
+For help or bug reports, open an issue on the plugin's GitHub repository.
   </Profile>
   <WebPage>https://github.com/SebastianOehm/unraid-plugins</WebPage>
 </CommunityApplications>

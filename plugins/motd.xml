@@ -5,10 +5,10 @@
   <!-- Must match the pluginURL attribute inside the .plg exactly -->
   <PluginURL>https://raw.githubusercontent.com/SebastianOehm/unraid-motd/main/plugin/motd.plg</PluginURL>
   <PluginAuthor>Sebastian Oehm</PluginAuthor>
-  <Support>https://forums.unraid.net/topic/177200-support-motd-message-of-the-day/</Support>
+  <Support>https://github.com/SebastianOehm/unraid-motd/issues</Support>
   <Project>https://github.com/SebastianOehm/unraid-motd</Project>
   <ReadMe>https://raw.githubusercontent.com/SebastianOehm/unraid-motd/main/README.md</ReadMe>
-  <Category>Tools:</Category>
+  <Category>Tools:System</Category>
   <IconFA>desktop</IconFA>
   <License>MIT</License>
 </Plugin>
