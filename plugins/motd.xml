@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <Name>MOTD</Name>
+  <Overview>Display system information (CPU, memory, disk usage, Docker containers and Compose stacks, service status, etc.) after SSH/console login.</Overview>
+  <!-- Must match the pluginURL attribute inside the .plg exactly -->
+  <PluginURL>https://raw.githubusercontent.com/SebastianOehm/unraid-motd/main/plugin/motd.plg</PluginURL>
+  <PluginAuthor>Sebastian Oehm</PluginAuthor>
+  <Support>https://forums.unraid.net/topic/177200-support-motd-message-of-the-day/</Support>
+  <Project>https://github.com/SebastianOehm/unraid-motd</Project>
+  <ReadMe>https://raw.githubusercontent.com/SebastianOehm/unraid-motd/main/README.md</ReadMe>
+  <Category>Tools:</Category>
+  <IconFA>desktop</IconFA>
+  <License>MIT</License>
+</Plugin>
